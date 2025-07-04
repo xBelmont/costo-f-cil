@@ -51,7 +51,7 @@ const About = () => {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-700 leading-relaxed mb-6">
-                  Nuestro semillero de investigación está conformado por el estudiante coordinador Juan Mendoza; los estudiantes investigadores Isabel Corrales, Christian Rosales y Fabio Picuasi además docentes apasionados 
+                  Nuestro semillero de investigación está conformado por el estudiante coordinador Juan Mendoza; los estudiantes investigadores Isabel Corrales, Christian Rosales y Fabio Picuasi además de docentes apasionados 
                   por crear soluciones tecnológicas que respondan a las necesidades reales de la comunidad 
                   emprendedora y académica.
                 </p>
